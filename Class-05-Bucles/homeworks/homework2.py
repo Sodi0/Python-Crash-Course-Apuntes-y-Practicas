@@ -1,4 +1,4 @@
-# Ejercicio 2: Imprimir los primeros n números de Fibonacci
+# Tarea 2: Imprimir los primeros n números de Fibonacci
 numero = int(input("Introduce cuántos números de Fibonacci quieres mostrar: "))
 
 # while
